@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class PlainApplicationTests {
 
 	@Test
-	void contextLoads() {
+	public void assetTest() {
 		assertTrue(True);
 	}
 
