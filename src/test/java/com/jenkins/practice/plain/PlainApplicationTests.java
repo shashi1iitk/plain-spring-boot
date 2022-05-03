@@ -10,7 +10,7 @@ class PlainApplicationTests {
 
 	@Test
 	public void assetTest() {
-		assertTrue(true);
+		assertTrue(false);
 	}
 
 }
